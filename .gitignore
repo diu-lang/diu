@@ -22,4 +22,5 @@ tmp/
 *.yy.c
 *.yy.h
 diu
+UnicodeData*.txt
 

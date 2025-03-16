@@ -6,3 +6,4 @@
 # MIT License
 
 add_subdirectory(c)
+add_subdirectory(libc)
